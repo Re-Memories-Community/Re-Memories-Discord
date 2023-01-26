@@ -1,0 +1,16 @@
+(banner maintenance)
+
+**========== RENOVASI SERVER ==========**
+
+Selama server direnovasi, kamu tidak akan bisa mengakses server ini sampai waktu yang tidak bisa ditentukan. 
+
+Untuk melihat apa aja yang diubah selama server direnovasi, bisa dicek di #maintenance-info-and-changelog
+
+**========== SERVER IS IN MAINTENANCE ==========**
+
+Server is closed. As long as the server is in maintenance, you will not be able to access this server until further notice.
+
+To see what has changed during server's maintenance, please check #maintenance-info-and-changelog
+
+Hatur nuhun!
+- Yang punya warteg -
