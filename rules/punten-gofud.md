@@ -1,0 +1,127 @@
+**=================================================
+JUST IN CASE KITA NGEREKRUT MODERATOR DISCORD BARU DI MASA DEPAN 
+=================================================**
+
+Hai halo, selamat datang rekan-rekan Moderator Discord! Melalui channel ini kami akan menolong kamu agar moderasi server ini menjadi mudah.
+
+Bagi yang belum mengetahui cara kerja server ini, lemme explain yak.
+
+**====================
+STRUKTUR MODERATOR DISCORD 
+====================**
+
+Moderator Discord adalah volunteer yang ingin membantu Staff Re:Memories dalam merapihkan dan bekerja sama dengan Staff Re:Memories agar komunitas server Discord ini bisa semakin baik dan bagus. Moderator DIscord sendiri bukanlah bagian dari Staff Re:Memories (tim internal) dan tidak punya kuasa untuk mengatur konten live para talent Re:Memories.
+
+**==========================**
+
+OK, struktur dari Moderator Discord ini terdiri dari beberapa level yang akan dijelaskan pada teks berikut ini:
+
+**Staff Re:Memories**:  Kak SOS, Papa Reinly, dan beberapa orang di balik Talent Re:Memories. (Dengan kata lain, mereka adalah Tim Internal Re:Memories.)
+**Talent**: Berisi kakak-kakak yang cantik dan tamvan. Mereka adalah Talent dari agensi Re:Memories.
+**Admin**: Mereka ditugaskan untuk mengingatkan dan/atau menindak tegas Moderator Discord serta para member server yang berulah atau melanggar peraturan server Discord Re:Memories. Mereka juga yang membantu Moderator Discord dalam menjalankan tugas moderasinya. 
+**Koordinator Event**: Mereka adalah orang yang mengurus koordinasi teknis dan operasional, serta menjadi penanggungj jawab utama untuk event yang berlangsung di server Discord Re:Memories. 
+**Customer Service**: Mereka adalah para volunteer yang bersedia memberi respon dan menjadi garda terdepan jika ada member server yang membutuhkan bantuan di kategori "Customer Service".
+**Moderator Discord**: Kalian, para moderator server yang bertugas membantu Staff Re:Memories serta menjaga agar server DIscord ini dapat berjalan sesuai aturan yang berlaku.
+
+**===========================
+PENJELASAN KATEGORI MODERASI
+===========================**
+
+Kategori ini adalah kategori yang nggak bisa dimasuki semua orang, atau dengan kata lain, hanya owner, admin, moderator, pawang bot dan orang berwenang yang bisa memasuki atau melihat kategori ini.
+
+OK, let's go.
+
+__**Text Channel**__
+#punten-gopud: Channel yang membantu kalian untuk memahami apa aja yang harus dilakukan sebagai Moderator Discord.
+#『👌』kamar-staff-discord: Channel kamar belakang, atau dengan kata lain: Channel koordinasi Moderator Discord.
+#『🔧』koordinator-room: Channel tempat para Koodinator Event untuk saling koordinasi dan sharing perencanaan serta jadwal kegiatan yang berlangsung di server ini.
+#『🤖』pawang-rebot: Pemiliknya pak RJ, jadi kalo @ReBot bermasalah, bisa hubungi beliau untuk memperbaiki botnya. Oh iya, channel ini juga dipake untuk announce live/premiere atau video baru dari para talent Re:Rememories.
+#livechat-mods-forum: Forum tempat para Moderator Livechat berkoordinasi mengenai livechat dan yang berhubungan dengan hal tsb.
+#channel-mods: Forum tempat para "Moderator Lokal" berkoordinasi mengenai keadaan channel khusus tiap talent maupun membership-nya dan yang berhubungan dengan hal tsb.
+#panitia-event: Forum tempat para Koordinator Event dan Staff Event berkoordinasi mengenai penyelenggaraan event dan yang berhubungan dengan hal tsb.
+#ruang-rapat: Channel yang berisi diskusi dan rangkuman rapat yang Moderator Discord.
+#log-members: Join log. Kalo ada orang masuk server ini, bisa dipantau di channel ini.
+#bot-update: Update teknis mengenai semua bot yang ada di server.
+#admin-bot: Channel untuk setup bot selain @ReBot.
+#materi: Channel untuk menyimpan link yang berguna untuk para Moderator Discord.
+#catatan-pelanggaran: Ini... adalah catatan yang bisa dipake untuk mencatat pelanggaran yang dilakukan member server dan/atau Moderator Discord lain. Basically, melakukan pencatatan pelanggaran sebelum Admin menindak tegas member server yang bermasalah.
+#barang-bukti-❕: Channel untuk menyimpan barang bukti pelanggaran yang dilakukan member server.
+#mencari-jejakmu-👣: Ini adalah... errr... oke. aib. Aib orang yang dicatet otomatis pas orang mengedit atau menghapus pesannya.
+
+__**Voice Channel**__
+Panitia Event: VC untuk koordinasi para Staff Event
+Pipis Bareng: VC yang biasanya diakses ketika selesai rapat. Kadang pula digunakan untuk mendiskusikan hal-hal remeh antar Moderator Discord ataupun bahasan tentang livechat oleh Moderator Livechat. ||Kadang dipakai buat ghibah juga sih||. VC ini bisa diakses juga oleh Staff Event dan Moderator Livechat.
+Telepati Moderator Discord: VC khusus Moderator Discord yang biasanya digunakan saat rapat.
+
+**==========================**
+
+**===========================
+PERATURAN MODERATOR DISCORD
+===========================**
+
+Berikut adalah peraturan yang wajib Moderator Discord ketahui dan lakukan: 
+1. Menjaga netralitas dan tidak memperlakukan member server secara diskriminatif.
+2. Menjaga konten yang sesuai dengan peraturan server dan melaporkan konten yang melanggar peraturan kepada Admin.
+3. Merespons pertanyaan dan keluhan member server dengan cepat dan profesional.
+4. Menjaga kerahasiaan informasi member server dan tidak menyebarkan informasi yang diperoleh secara tidak sah.
+5. Memperlakukan semua member server dengan hormat dan tidak menggunakan bahasa yang tidak pantas.
+6. Mengikuti arahan Admin dan mengambil tindakan yang diperlukan untuk menjaga ketertiban server.
+7. Mengambil tindakan yang diperlukan untuk menghentikan tindakan yang melanggar peraturan, termasuk memberikan peringatan, memberikan hukuman, atau mengeluarkan member dari server.
+8. Membuat catatan yang sesuai tentang tindakan yang diambil, termasuk alasan yang mendasar dari tindakan tersebut.
+9. Mengikuti perkembangan peraturan server dan melakukan perubahan yang diperlukan untuk menjaga kesesuaian dengan peraturan terbaru.
+10. Berkomunikasi dengan Admin dan rekan Moderator Discord lainnya secara efektif dan menyampaikan masalah atau permasalahan yang dihadapi.
+11. Diharapkan untuk aktif dalam server dan mengawasi konten secara rutin. Jika hal tersebut tidak memungkinkan, maka dapat memberi kabar di #『👌』kamar-staff-discord.
+12. Menghindari penggunaan kuasa yang tidak perlu dan tidak melakukan power abuse.
+13. Transparan dalam tindakan yang diambil dan dapat dipertanggung jawabkan atas tindakan yang diambil.
+14. Melakukan prosedur penindakan pelanggaran yang ditentukan dan melakukan review tindakan yang diambil.
+15. Admin dan Moderator Discord tidak diperkenankan untuk mengakses atau berpartisipasi di channel membership (text & voice) tanpa memiliki role membership dari talent tersebut. Penanganan moderasi akan ditangani oleh "Mod Lokal" yang dibertugaskan. Jika diperlukan, "Mod Lokal" dapat memanggil atau mention Admin dan Moderator Discord untuk menindak permasalahan yang dihadapi. Hal ini dilakukan untuk menjaga exclusivity channel dan menghindari sentimen negatif.
+16. Untuk Moderator Discord yang tidak memiliki role membership di channel yang dituju, hanya diperbolehkan untuk berpartisipasi jika:
+- Hal tersebut bersifat / memiliki urgensi tinggi.
+- Memberi tahu notifikasi (entah itu live atau semacamnya).
+- Jika masalah yang dihadapi tidak bisa ditangani oleh "'Mod Lokal" maupun oleh Moderator Discord yang mempunyai role membership di channel talent yang dituju.
+
+**==========================**
+
+**============================== 
+PROSEDUR MODERASI SERVER DISCORD
+==============================**
+
+Berikut adalah prosedur yang dapat diikuti dalam melakukan moderasi di server Discord ini:
+1. __Identifikasi pelanggaran__: Moderator Discord harus mengidentifikasi pelanggaran yang dilakukan oleh member server dan membuat catatan tentang tindakan yang dilakukan oleh member tersebut. Contoh: Member Server menyebarkan konten pornografi di dalam server.
+2. __Pemberian peringatan__: Moderator Discord harus memberikan peringatan kepada member server yang melakukan pelanggaran. Peringatan harus jelas menyatakan pelanggaran yang dilakukan dan apa yang harus dilakukan oleh member server untuk memperbaiki diri. Contoh: Member server diberikan peringatan untuk menghapus konten yang dibagikan dan bersedia mengikuti peraturan server tentang berbagi konten yang diizinkan.
+3. __Tindakan selanjutnya__: Jika member server tidak memperbaiki diri setelah diberikan peringatan, Moderator Discord harus mengambil tindakan selanjutnya sesuai dengan peraturan server. Tindakan selanjutnya dapat berupa memberikan hukuman, seperti pembatasan akses atau pengeluaran dari server. Contoh: Member server dicabut role verified member-nya karena tidak mematuhi peringatan yang diberikan lebih dari 2 kali peringatan. Lalu akan di-kick dari server jika masih melakukan pelanggaran. Kemudian akan dilakukan banned dari server jika pelanggaranya terus berulang atau melakukan pelanggaran yang terlalu berat.
+4. __Catatan__: Moderator Discord harus membuat catatan yang sesuai tentang tindakan yang diambil, termasuk alasan yang mendasar dari tindakan tersebut. Catatan ini harus disimpan untuk referensi jika diperlukan di masa depan.
+5. __Komunikasi__: Moderator Discord harus berkomunikasi dengan Admin dan rekan Moderator Discord lainnya untuk memastikan tindakan yang diambil sesuai dengan peraturan server dan untuk menyampaikan masalah atau permasalahan yang dihadapi.
+6. __Review__ : Moderator Discord harus memeriksa kembali tindakan yang telah diambil secara berkala, untuk memastikan bahwa telah sesuai dengan peraturan server dan efektif dalam mengatasi pelanggaran.
+7. __Transparansi__ : Moderator Discord harus selalu transparan dalam tindakan yang diambil dan dapat dipertanggung jawabkan atas tindakan yang diambil.
+
+**==========================**
+
+**============================== 
+PENJELASAN KATEGORI MAINTENANCE
+==============================**
+
+Kategori ini akan muncul untuk Verified Member apabila ada perbaikan maupun pengembangan fitur secara besar-besaran di server ini.
+
+#server-in-maintenance: Berisi pesan yang akan tampil selama masa maintenance.
+#maintenance-info-and-changelog: Berisi jadwal maintenance dan catatan yang dilakukan selama maintenance berlangsung.
+
+**==========================**
+
+**============================== 
+PENJELASAN KATEGORI CUSTOMER SERVICE
+==============================**
+
+Kategori ini merupakan media aduan serta kritik dan saran dari member server kepada Moderator Discord
+Moderator Discord yang memiliki role @Customer Service adalah para sukarelawan yang menjadi garda terdepan jika ada tiket baru yang dibuka oleh member server. Walau pada prakteknya selain yang memiliki role tersebut diperkenankan untuk membantu menjawab ticket yang ada.
+
+Berikut adalah prosedur yang dapat diikuti dalam melakukan moderasi kategori Customer Service:
+1. __Mendengarkan keluhan dan pertanyaan member server__: Customer Service harus mendengarkan dengan seksama keluhan dan pertanyaan yang diajukan oleh member server dan mencoba untuk memahami masalah yang dihadapi oleh member server.
+2. __Pencarian solusi__: Customer Service harus mencari solusi yang sesuai untuk masalah yang dihadapi oleh member server dan memberikan jawaban yang jelas dan akurat.
+3. __Pencatatan__: Customer Service harus membuat catatan yang sesuai tentang masalah yang diajukan oleh member server dan solusi yang diberikan. Catatan ini harus disimpan untuk referensi jika diperlukan di masa depan. Dalam hal ini, Customer Server wajib menekan tombol "Transcript" jika ticket tersebut sudah dinyatakan selesai / sudah ditutup.
+4. __Komunikasi dengan rekan__: Customer Service harus berkomunikasi dengan rekan-rekan Customer Service lainnya ataupun Admin dan Moderator DIscord lain untuk memastikan bahwa masalah yang dihadapi oleh member server dapat ditangani dengan baik dan solusi yang diberikan sesuai dengan peraturan.
+5. __Follow up__ : Customer Service harus melakukan follow up dengan member server untuk memastikan bahwa masalah yang dihadapi telah terselesaikan dengan baik dan untuk menerima feedback dari member server.
+6. __Keteraturan dalam menjawab ticket__ : Customer Service diharapkan untuk tidak melakukan percakapan dalam waktu bersamaan dalam menjawab dan melayani pertanyaan member server, agar tidak terjadi kesalahan dalam memberikan jawaban dan solusi yang sesuai.
+7. __Transparansi__ : Customer Service harus selalu transparan dalam tindakan yang diambil dan dapat dipertanggung jawabkan atas tindakan yang diambil.
+
+**==========================**
