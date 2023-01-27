@@ -76,9 +76,9 @@ Berikut adalah peraturan yang wajib Moderator Discord ketahui dan lakukan:
 14. Melakukan prosedur penindakan pelanggaran yang ditentukan dan melakukan review tindakan yang diambil.
 15. Admin dan Moderator Discord tidak diperkenankan untuk mengakses atau berpartisipasi di channel membership (text & voice) tanpa memiliki role membership dari talent tersebut. Penanganan moderasi akan ditangani oleh "Mod Lokal" yang dibertugaskan. Jika diperlukan, "Mod Lokal" dapat memanggil atau mention Admin dan Moderator Discord untuk menindak permasalahan yang dihadapi. Hal ini dilakukan untuk menjaga exclusivity channel dan menghindari sentimen negatif.
 16. Untuk Moderator Discord yang tidak memiliki role membership di channel yang dituju, hanya diperbolehkan untuk berpartisipasi jika:
-- Hal tersebut bersifat / memiliki urgensi tinggi.
-- Memberi tahu notifikasi (entah itu live atau semacamnya).
-- Jika masalah yang dihadapi tidak bisa ditangani oleh "'Mod Lokal" maupun oleh Moderator Discord yang mempunyai role membership di channel talent yang dituju.
+    - Hal tersebut bersifat / memiliki urgensi tinggi.
+    - Memberi tahu notifikasi (entah itu live atau semacamnya).
+    - Jika masalah yang dihadapi tidak bisa ditangani oleh "'Mod Lokal" maupun oleh Moderator Discord yang mempunyai role membership di channel talent yang dituju.
 
 **==========================**
 
