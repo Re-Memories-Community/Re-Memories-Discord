@@ -9,7 +9,7 @@ Maka berikut akan kami jelaskan mengenai aturan-aturan yang berlaku dan wajib di
 ATURAN UMUM
 =======================================**
 
-1.  Server ini mengutamakan lingkungan yang family friendly.
+1.  Server ini mengutamakan lingkungan yang "family friendly".
 2.  Saling menjaga sikap dan perkataan yang baik, serta hindari menggunakan bahasa yang tidak sopan dan kurang pantas.
 3.  Dilarang melakukan tindakan pembullyan, bashing, shaming, atau hal yang menyinggung SARA (Suku, Agama, Ras, Antargolongan).
 4.  Saling mendukung satu sama lain, tidak diperkenankan untuk saling membandingkan keadaan atau menjatuhkan sesama member server.
@@ -19,15 +19,19 @@ ATURAN UMUM
 8.  Dilarang membagikan berita hoax.
 9.  Tidak meresahkan member lain, keluhan berkelanjutan dari beberapa member akan ditindak secara administratif.
 10. Dilarang melakukan self-promote baik milik pribadi maupun tim dalam bentuk apapun, kecuali untuk survey tugas atau skripsi yang hanya boleh dilakukan di channel #ngobrol-bebas dan tidak diperkenankan spamming.
-11. Dilarang menggunakan profile picture, username, dan atau nickname yang tidak family friendly.
+11. Dilarang menggunakan profile picture, username, dan atau nickname yang tidak "family friendly".
 12. Dilarang melakukan penggunaan akun ganda (2nd account).
 13. Dilarang melakukan tag/mention role admin, moderator, staff dan talent secara sembarangan, hanya diperbolehkan dalam kondisi darurat atau terjadi pelanggaran peraturan berat.
 
 **=======================================
-PSA: KONTEN YANG BISA DIBAGIKAN
+ATURAN LANJUTAN
 =======================================**
 
-Dikarenakan server ini adalah "family friendly", maka kami meminta kesediaan rekan-rekan untuk **tidak membagikan konten sensitif** berupa:
+Berikut adalah penjabaran dari beberapa aturan yang berlaku di server ini:
+
+__**PSA: KONTEN YANG BISA DIBAGIKAN**__
+
+Kami meminta kesediaan rekan-rekan untuk **tidak membagikan konten sensitif** berupa:
 
 - SARA
 - Lawakan pandemi/wabah
@@ -40,9 +44,7 @@ Dikarenakan server ini adalah "family friendly", maka kami meminta kesediaan rek
 - Satanic
 - Dark Jokes
 
-**=======================================
-PENGGUNAAN MENTION MODERATOR DISCORD
-=======================================**
+__**PENGGUNAAN MENTION MODERATOR DISCORD**__
 
 Untuk menghindari role ping abuse, tag @Moderator Discord hanya boleh digunakan **JIKA DAN HANYA JIKA ketika ada kejadian luar biasa/urgensi tinggi, atau rule violation.** Selebihnya, jika ingin tag mod, tag salah satu dari Admin atau Moderator yang sedang online.
 
@@ -57,11 +59,7 @@ Kejadian luar biasa atau urgensi tinggi dalam hal ini adalah:
 
 Apabila ada kejadian di luar yang disebutkan di atas, **maka dianjurkan untuk mention salah satu Admin atau Moderator yang ada**. 
 
-**=======================================
-ATURAN MENGENAI PROFILE PICTURE, USERNAME, DAN/ATAU NICKNAME
-=======================================**
-
-Mengingat kembali bahwa server ini adalah family friendly, maka akan diberlakukan aturan mengenai penggunaan profile picture, username, dan nickname.
+__**ATURAN MENGENAI PROFILE PICTURE, USERNAME, DAN/ATAU NICKNAME**__
 
 Profile picture, username dan nickname diwajibkan untuk tidak mengandung unsur:
 
@@ -73,9 +71,7 @@ Profile picture, username dan nickname diwajibkan untuk tidak mengandung unsur:
 
 Apabila didapati hal di atas, maka kami akan meminta kamu untuk mengganti profile picture, username, dan/atau nickname terlebih dahulu. Kalau menolak dan tetap bersikeras, maka kami akan mencabut role "Verified Member" kamu yang mengakibatkan kamu tidak bisa mengakses keseluruhan isi server ini.
 
-**=======================================
-ATURAN MENGENAI AKUN GANDA (2ND ACCOUNT)
-=======================================**
+__**ATURAN MENGENAI PENGGUNAAN AKUN GANDA (2ND ACCOUNT)**__
 
 Penggunaan akun ganda (2nd account) di server ini **SANGAT TIDAK DIPERBOLEHKAN**. Namun, apabila Anda **sangat terpaksa** harus menggunakan akun ganda di server ini, maka setelah masuk ke server Anda **wajib melaporkannya** kepada salah satu Admin dan atau Moderator Discord dengan menyertakan alasan yang bisa diterima melalui DM.
 
@@ -89,9 +85,7 @@ Meskipun demikian, hal tersebut bukan menjadi alasan untuk bisa masuk ke server 
 
 Apabila Admin atau Moderator menemukan dugaan adanya akun ganda tanpa pelaporan terlebih dahulu di server ini, mereka berhak untuk memanggil terduga pemilik akun tersebut untuk ditanyai lebih lanjut. Kalau terduga terbukti dan tidak bisa diajak kooperatif (bekerja sama) maka akun ganda beserta pemiliknya akan dikeluarkan (juga ban) dari server ini.
 
-**=======================================
-ATURAN MENGENAI DRAMA
-=======================================**
+__**ATURAN MENGENAI DRAMA**__
 
 Berhubung akhir-akhir ini banyak drama yang terjadi di ranah VTuber dan sekitarnya, **maka kami meminta kerja sama Anda untuk tidak membahas (sekaligus berdebat) drama tersebut dalam bentuk apapun di server ini.**
 
@@ -102,9 +96,7 @@ Mengapa kami mengeluarkan aturan tersebut?
 
 Kami tidak mempermasalahkan apabila Anda membahas suatu drama dalam lingkar diskusi secara tertutup (misalnya melalui DM grup Discord), tetapi tidak diizinkan untuk di server ini. Sekadar mengingatkan bahwa server ini adalah family friendly, jadi ada baiknya kita semua mematuhi hal tersebut.
 
-**=======================================
-ATURAN MENGENAI BERITA HOAX
-=======================================**
+__**ATURAN MENGENAI BERITA HOAX**__
 
 Kami menghargai hak setiap individu untuk berpendapat dan berekspresi, namun pada saat yang sama kami juga menghormati kebenaran dan kejujuran. Oleh karena itu, kami melarang penyebaran berita hoax atau informasi yang tidak akurat di server Discord ini. Kami akan mengambil tindakan sesuai dengan peraturan yang berlaku jika terdapat laporan atau bukti penyebaran berita hoax. Kami berharap setiap member server dapat berperan dalam menjaga kredibilitas dan integritas informasi di server ini.
 
@@ -119,6 +111,8 @@ Namun bilamana member tersebut tidak mengindahkannya, maka kami akan lakukan tin
 - 2 kali: mute selama 1 hari.
 - 3 kali: mute selama 1 minggu.
 - Untuk selebihnya mohon maaf, Anda akan mendapatkan "surat cinta" dari Moderator Discord.
+
+Admin dan Moderator berhak untuk menyesuaikan kembali sanksi yang akan diterima berdasarkan tingkat pelanggaran yang dilakukan.
 
 Dengan ini, kami menegaskan bahwa setiap member yang bergabung di server Discord ini sudah membaca, mengerti, dan akan selalu menaati peraturan yang berlaku di server ini. Kami juga mengingatkan bahwa setiap pelanggaran akan dikenakan sanksi sesuai dengan ketentuan yang telah ditetapkan. Kami berharap, lingkungan server Discord ini dapat tetap nyaman dan kondusif untuk seluruh member server. 
 
