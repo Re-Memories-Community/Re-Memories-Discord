@@ -1,7 +1,9 @@
+(banner welcome / re:memories)
+
 ======= **WELLCOME TO RE:MEMORIES** =======
 Selamat datang di server Discord Re:Memories!
 
-Server ini di bentuk untuk Liliae, Reysteners, Chloevers, Pencil, dan Eyelainer agar dapat saling berinteraksi antar member dan talent.
+Server Discord ini di bentuk sebagai wadah agar komunitas Re:Memories dapat saling berinteraksi antar member dan talent.
 
 ============== **ABOUT US** ==============
 Re:Memories adalah agensi entertainment yang berfokus memberikan sensasi hiburan baru dengan memperhatikan komunikasi dua arah.
@@ -10,21 +12,21 @@ Sebelum Re:Memories berdiri, tim kami sudah terbentuk sejak tahun 2018 yang berf
 
 ======= ROLE DISCORD RE:MEMORIES =======
 
-@Yang Punya Warteg    - adalah orang yang memegang kendali server. 
-@Staff Re:Memories     - adalah staff staff internal Re:Memories ( Manager, Video Editor, dll ).
-@Talent                             - adalah talent talent Re:Memories (Lily Ifeta, Reynard Blanc, Chloe Pawapua, Cecilia Lieberia, dan Elaine Celestia).
-@Admin                            - adalah administrator server, mereka menindak tegas para member maupun @Moderator Discord yang melanggar peraturan server.
-@Moderator Discord    - adalah Moderator Server, mereka bertugas untuk mengingatkan dan menegur member yang melanggar peraturan server.
-@Virtual Guest               - adalah rekan sesama Vtuber/Youtuber dari agensi luar maupun indie.
+@Yang Punya Warteg      - adalah orang yang memegang kendali server. 
+@Staff Re:Memories      - adalah staff-staff internal Re:Memories ( Manager, Video Editor, dll ).
+@Talent                 - adalah talent-talent Re:Memories (Lily Ifeta, Reynard Blanc, Chloe Pawapua, Cecilia Lieberia, dan Elaine Celestia).
+@Admin                  - adalah administrator server, mereka menindak tegas para member maupun @Moderator Discord yang melanggar peraturan server.
+@Moderator discord      - adalah Moderator Server, mereka bertugas untuk mengingatkan dan menegur member yang melanggar peraturan server.
+@Virtual Guest          - adalah rekan sesama Vtuber/Youtuber dari agensi luar maupun indie.
 @Server Supporter       - adalah role khusus untuk mereka yang sukarela memberikan Server Boost, sebutan lain untuk Nitro Booster.
-@Verivied Member        - adalah kalian para member yang ada di server ini. 
+@Verified Member        - adalah kalian para member yang ada di server ini. 
 ===========
 **Role Khusus**
 ===========
-@Pawang RoBot              - membantu mengurus Robot Gendeng di sini.
-@Moderator Livechat    - orang yang bertugas menjaga live chat saat talent live stream.
-@Koordinator Event       - orang yang mengurus teknis dan operasional semua event di server.
-@Staff Event                     - orang yang membantu @Koordinator Event dalam menjalankan tugasnya.
+@Pawang RoBot           - membantu mengurus Robot Gendeng di sini.
+@Moderator Livechat     - orang yang bertugas menjaga livechat saat talent melakukan livestream.
+@Koordinator Event      - orang yang mengurus teknis dan operasional semua event di server.
+@Staff Event            - orang yang membantu @Koordinator Event dalam menjalankan tugasnya.
 
 ========== MEMBERSHIP ==========
 Jika kalian sudah join membership di channel masing-masing virtual liver, kalian akan mendapatkan role khusus untuk mengakses channel discord tertentu!
@@ -32,11 +34,11 @@ Jika kalian sudah join membership di channel masing-masing virtual liver, kalian
 Cara mendapatkan role tersebut: 
 #how-to-sync-membership (berlaku untuk Cancimen, Reysteners, Pawapuan, Lieberian, dan Elainet Citizenship)
 
- @Cancimen's Membership        - Role membership Lily Ifeta
- @Reysteners's Membership      - Role Membership Reynard Blanc
- @Pawapuan's Membership       - Role membership Chloe Pawapua
- @Lieberian                                     - Role Membership Cecilia Lieberia
- @Elainet Citizenship                   - Role membership Elaine Celestia 
+@Cancimen's Membership      - Role membership Lily Ifeta
+@Reysteners's Membership    - Role Membership Reynard Blanc
+@Pawapuan's Membership      - Role membership Chloe Pawapua
+@Lieberian                  - Role Membership Cecilia Lieberia
+@Elainet Citizenship        - Role membership Elaine Celestia 
 
 ========== **INVITATION LINK** ==========
 Untuk menghindari hal-hal yang tidak diinginkan, maka kami menonaktifkan fitur invite via create invite. Bagi yang mau ngundang temennya, diharapkan untuk memakai link yang satu ini.
