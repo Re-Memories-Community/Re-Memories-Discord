@@ -10,7 +10,7 @@ ATURAN UMUM
 =======================================**
 
 1.  Server ini mengutamakan lingkungan yang family friendly.
-2.  Saling menjaga sikap dan perkataan yang baik.
+2.  Saling menjaga sikap dan perkataan yang baik, serta hindari menggunakan bahasa yang tidak sopan dan kurang pantas.
 3.  Dilarang melakukan tindakan pembullyan, bashing, shaming, atau hal yang menyinggung SARA (Suku, Agama, Ras, Antargolongan).
 4.  Saling mendukung satu sama lain, tidak diperkenankan untuk saling membandingkan keadaan atau menjatuhkan sesama member server.
 5.  Hanya diperbolehkan berbagi konten yang sesuai untuk segala usia dan kalangan.
@@ -19,7 +19,7 @@ ATURAN UMUM
 8.  Dilarang membagikan berita hoax.
 9.  Tidak meresahkan member lain, keluhan berkelanjutan dari beberapa member akan ditindak secara administratif.
 10. Dilarang melakukan self-promote baik milik pribadi maupun tim dalam bentuk apapun, kecuali untuk survey tugas atau skripsi yang hanya boleh dilakukan di channel #ngobrol-bebas dan tidak diperkenankan spamming.
-11. Dilarang menggunakan username dan atau nickname yang tidak family friendly.
+11. Dilarang menggunakan profile picture, username, dan atau nickname yang tidak family friendly.
 12. Dilarang melakukan penggunaan akun ganda (2nd account).
 13. Dilarang melakukan tag/mention role admin, moderator, staff dan talent secara sembarangan, hanya diperbolehkan dalam kondisi darurat atau terjadi pelanggaran peraturan berat.
 
@@ -58,12 +58,12 @@ Kejadian luar biasa atau urgensi tinggi dalam hal ini adalah:
 Apabila ada kejadian di luar yang disebutkan di atas, **maka dianjurkan untuk mention salah satu Admin atau Moderator yang ada**. 
 
 **=======================================
-ATURAN MENGENAI USERNAME DAN/ATAU NICKNAME
+ATURAN MENGENAI PROFILE PICTURE, USERNAME, DAN/ATAU NICKNAME
 =======================================**
 
-Mengingat kembali bahwa server ini adalah family friendly, maka akan diberlakukan aturan mengenai penggunaan username dan nickname.
+Mengingat kembali bahwa server ini adalah family friendly, maka akan diberlakukan aturan mengenai penggunaan profile picture, username, dan nickname.
 
-Username dan nickname diwajibkan untuk tidak boleh mengandung unsur:
+Profile picture, username dan nickname diwajibkan untuk tidak mengandung unsur:
 
 - SARA
 - Politik
@@ -71,7 +71,7 @@ Username dan nickname diwajibkan untuk tidak boleh mengandung unsur:
 - Swear words/kata-kata kasar
 - Trolling (yang bisa memancing orang untuk marah/tersinggung)
 
-Apabila didapati hal di atas, maka kami akan meminta kamu untuk mengganti username dan/atau nickname terlebih dahulu. Kalau menolak dan tetap bersikeras, maka kami akan mencabut role "Verified Member" kamu yang mengakibatkan kamu tidak bisa mengakses keseluruhan isi server ini.
+Apabila didapati hal di atas, maka kami akan meminta kamu untuk mengganti profile picture, username, dan/atau nickname terlebih dahulu. Kalau menolak dan tetap bersikeras, maka kami akan mencabut role "Verified Member" kamu yang mengakibatkan kamu tidak bisa mengakses keseluruhan isi server ini.
 
 **=======================================
 ATURAN MENGENAI AKUN GANDA (2ND ACCOUNT)
@@ -112,7 +112,8 @@ Kami menghargai hak setiap individu untuk berpendapat dan berekspresi, namun pad
 PEMBERIAN SANKSI
 =======================================**
 
-Apabila rekan-rekan melanggar hal-hal yang telah disebutkan di atas, maka kami akan lakukan tindakan sebagai berikut:
+Pada dasarnya apabila rekan-rekan melanggar hal-hal yang telah disebutkan di atas, Moderator Discord untuk berhak memberikan teguran agar yang bersangkutan mengetahui apa yang harus diperbaiki / diubah.
+Namun bilamana member tersebut tidak mengindahkan "salam hangat" dari Moderator Discord dan masih melakukan pelanggaran, maka kami akan lakukan tindakan sebagai berikut:
 
 - 1 kali: mute selama 1 jam
 - 2 kali: mute selama 1 hari
