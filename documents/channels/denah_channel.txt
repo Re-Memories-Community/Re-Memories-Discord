@@ -1,17 +1,17 @@
 ✿ Pintu Depan ✿
-#『🤝』keset-welcome - Gerbang Server Re:Memories, Jika ada member baru harap disambut ya~
-#『🎀』introduce-yourself - Tak kenal maka tak sayang, jadi ayuk kenalan dulu~
-#choose-vliver - Tempat untuk mengambil role dari talent tertentu agar mendapatkan notifikasi live dari mereka~
-#unlock-community - Tempat untuk mengambil role komunitas, yuk ambil role nya agar dapat notifikasi dari event komunitas~
+#『🤝』keset-welcome        - Gerbang Server Re:Memories, Jika ada member baru harap disambut ya~
+#『🎀』introduce-yourself   - Tak kenal maka tak sayang, jadi ayuk kenalan dulu~
+#choose-vliver              - Tempat untuk mengambil role dari talent tertentu agar mendapatkan notifikasi live dari mereka~
+#unlock-community           - Tempat untuk mengambil role komunitas, yuk ambil role nya agar dapat notifikasi dari event komunitas~
 
 ✿ Informasi ✿
-#peraturan-server-⚔ - Rules server, silakan dibaca dan ditaati ya agar semua yang diserver ini nyaman~ 
-#server-rules - Server Rules, Always Remember to follow the rules guys~
-#about-re:memories - Tempat untuk mengetahui segalanya mengenai re:memories
-#how-to-sync-membership - Jika bingung untuk menghubungkan akun yt dengan discord bisa dilihat disini ya~
-#server-announcment - Jika ada perubahan atau apapun yang berkaitan dengan server akan diinformasikan disini~
-#live-schedule - Jika ada talent yang akan live akan diinformasikan disini~
-#community-announcment - Jika ada event komunitas yang akan dilaksanakan akan diinformasikan disini~
+#peraturan-server-⚔        - Rules server, silakan dibaca dan ditaati ya agar semua yang diserver ini nyaman~ 
+#server-Rules               - Server Rules, Always Remember to follow the rules guys~
+#about-re:memories          - Tempat untuk mengetahui segalanya mengenai re:memories
+#how-to-sync-membership     - Jika bingung untuk menghubungkan akun yt dengan discord bisa dilihat disini ya~
+#server-announcment         - Jika ada perubahan atau apapun yang berkaitan dengan server akan diinformasikan disini~
+#live-schedule              - Jika ada talent yang akan live akan diinformasikan disini~
+#community-announcment      - Jika ada event komunitas yang akan dilaksanakan akan diinformasikan disini~
 
 ✿ Maintenance✿
 #maintenance-info-and-changelog - log mengenai maintenance server
@@ -20,100 +20,100 @@
 #『📝』customer-service - jika ada masalah ataupun punya saran untuk server bisa hubungi kontak service kami ya~
 
 ✿ Public Chat✿ 
-#ngobrol-bebas-id - Tempat untuk membahas apapun itu, tapi tetep mengikuti rules yang ada ya~
-#international-free-talk - A place to talk about anything but, still follow the rules okay~
-#serious-talk - Tempat untuk ngobrol serius 
-#suggestion-and-feedback - Tempat untuk menampung saran dan kritik
-#pub-no-mic - 
-#main-bersama - Tempat untuk main bersama temen-temen yang ada di server ini
-#music-bot-spam - Tempat untuk menggunakan bot music 
-#Kanal Suara - 
-#Main Bersama -
+#ngobrol-bebas-id           - Tempat untuk membahas apapun itu, tapi tetep mengikuti rules yang ada ya~
+#international-free-talk    - A place to talk about anything but, still follow the rules okay~
+#serious-talk               - Tempat untuk ngobrol serius 
+#suggestion-and-feedback    - Tempat untuk menampung saran dan kritik
+#pub-no-mic                 - 
+#main-bersama               - Tempat untuk main bersama temen-temen yang ada di server ini
+#music-bot-spam             - Tempat untuk menggunakan bot music 
+#Kanal Suara                - 
+#Main Bersama               -
 
 ✿ Re:Memories Discussion ✿
-#『💫🎹🍀🗡📖』all-about-re-memories - Tempat untuk membahas apapun mengenai Re:Memories
-#『💫🎹🍀🗡📖』fanart-clip-re-memories - Tempat untuk menampung fanart,meme, dan clip yang bersangkutan dengan semua talent Re:memories
-#『💫🎹🍀🗡📖』collab-discussion - Tempat untuk chat jika ada kollab semua Talent Re:Memories
-#Nonton Live VC - Voice chat yang digunakan ketika ada kollab semua Talent Re:Memories
+#『💫🎹🍀🗡📖』all-about-re-memories    - Tempat untuk membahas apapun mengenai Re:Memories
+#『💫🎹🍀🗡📖』fanart-clip-re-memories  - Tempat untuk menampung fanart,meme, dan clip yang bersangkutan dengan semua talent Re:memories
+#『💫🎹🍀🗡📖』collab-discussion        - Tempat untuk chat jika ada kollab semua Talent Re:Memories
+#Nonton Live VC                         - Voice chat yang digunakan ketika ada kollab semua Talent Re:Memories
 
 ✿ Liliae ✿
-#『💫』about-lily-💫 - Semua hal yang ingin kamu ketahui tentang Lily tersedia disini
-#『💫』twitter-lily-🐦 - Semua yang berhubungan dengan twitter Lily akan diinformasikan disini
-#『💫』liliae-talks - Tempat untuk membahas apapun yang berkaitan dengan Lily
-#『💫』clip-meme-fanart - Tempat untuk menampung fanart,meme, dan clip yang berkaitan dengan Lily
-#『💫』cancimen-membership-talks - Tempat untuk membahas apapun mengenai membership Lily, ingat temen-temen diharap apapun yang disini tidak bocor kepublik ya~
-#Liliae Voice Chat - Voice chat untuk para Liliae
-#Cancimen Membership Voice Chat - Voice chat untuk para Cancimen
+#『💫』about-lily-💫                - Semua hal yang ingin kamu ketahui tentang Lily tersedia disini
+#『💫』twitter-lily-🐦              - Semua yang berhubungan dengan twitter Lily akan diinformasikan disini
+#『💫』liliae-talks                 - Tempat untuk membahas apapun yang berkaitan dengan Lily
+#『💫』clip-meme-fanart             - Tempat untuk menampung fanart,meme, dan clip yang berkaitan dengan Lily
+#『💫』cancimen-membership-talks    - Tempat untuk membahas apapun mengenai membership Lily, ingat temen-temen diharap apapun yang disini tidak bocor kepublik ya~
+#Liliae Voice Chat                  - Voice chat untuk para Liliae
+#Cancimen Membership Voice Chat     - Voice chat untuk para Cancimen
 
 ✿ Reysteners ✿
-#『🎹』about-reynard-🎹 - Semua hal yang ingin kamu ketahui tentang Reynard tersedia disini
-#『🎹』twitter-rey-🐦 - Semua yang berhubungan dengan twitter Reynard akan diinformasikan disini
-#『🎹』reynard-talks - Tempat untuk membahas apapun yang berkaitan dengan Reynard
-#『🎹』clip-meme-fanart - Tempat untuk menampung fanart,meme, dan clip yang berkaitan dengan Reynard
-#『🎹』reysteners-talks - Tempat untuk membahas apapun mengenai membership Reynard, ingat temen-temen diharap apapun yang disini tidak bocor kepublik ya~
-#Reynard Voice Chat - Voice chat untuk para Reynard
-#Reystener Membership Voice Chat - Voice chat untuk para Reystener
+#『🎹』about-reynard-🎹             - Semua hal yang ingin kamu ketahui tentang Reynard tersedia disini
+#『🎹』twitter-rey-🐦               - Semua yang berhubungan dengan twitter Reynard akan diinformasikan disini
+#『🎹』reynard-talks                - Tempat untuk membahas apapun yang berkaitan dengan Reynard
+#『🎹』clip-meme-fanart             - Tempat untuk menampung fanart,meme, dan clip yang berkaitan dengan Reynard
+#『🎹』reysteners-talks             - Tempat untuk membahas apapun mengenai membership Reynard, ingat temen-temen diharap apapun yang disini tidak bocor kepublik ya~
+#Reynard Voice Chat                 - Voice chat untuk para Reynard
+#Reystener Membership Voice Chat    - Voice chat untuk para Reystener
 
 ✿ Pawapuans  ✿
-#『🍀』about-chloe-🍀 - Semua hal yang ingin kamu ketahui tentang Chloe tersedia disini
-#『🍀』twitter-chloe-🐦 - Semua yang berhubungan dengan twitter Chloe akan diinformasikan disini
-#『🍀』chloevers-talks - Tempat untuk membahas apapun yang berkaitan dengan Chloe
-#『🍀』clip-meme-fanart - Tempat untuk menampung fanart,meme, dan clip yang berkaitan dengan Chloe
-#『🍀』pawapuan-membership-talks - Tempat untuk membahas apapun mengenai membership Chloe, ingat temen-temen diharap apapun yang disini tidak bocor kepublik ya~
-#Chloevers Voice Chat - Voice chat untuk para Chloevers
-#Pawapuan Membership Voice Chat - Voice chat untuk para Pawapuan
+#『🍀』about-chloe-🍀               - Semua hal yang ingin kamu ketahui tentang Chloe tersedia disini
+#『🍀』twitter-chloe-🐦             - Semua yang berhubungan dengan twitter Chloe akan diinformasikan disini
+#『🍀』chloevers-talks              - Tempat untuk membahas apapun yang berkaitan dengan Chloe
+#『🍀』clip-meme-fanart             - Tempat untuk menampung fanart,meme, dan clip yang berkaitan dengan Chloe
+#『🍀』pawapuan-membership-talks    - Tempat untuk membahas apapun mengenai membership Chloe, ingat temen-temen diharap apapun yang disini tidak bocor kepublik ya~
+#Chloevers Voice Chat               - Voice chat untuk para Chloevers
+#Pawapuan Membership Voice Chat     - Voice chat untuk para Pawapuan
 
 ✿ Eyelainer ✿
-#『🗡』about-elaine-🗡 - Semua hal yang ingin kamu ketahui tentang Elaine tersedia disini
-#『🗡』twitter-elaine - Semua yang berhubungan dengan twitter Elaine akan diinformasikan disini
-#『🗡』eyelainer-talks - Tempat untuk membahas apapun yang berkaitan dengan Elaine
-#『🗡』clip-meme-fanart - Tempat untuk menampung fanart,meme, dan clip yang berkaitan dengan Elaine
-#『🗡』elainet-citizenship - Tempat untuk membahas apapun mengenai membership Elaine, ingat temen-temen diharap apapun yang disini tidak bocor kepublik ya~
-#Eyelainer Voice Chat - Voice chat untuk para Eyelainer
-#Elainet Membership Voice Chat - Voice chat untuk para Elainet
+#『🗡』about-elaine-🗡              - Semua hal yang ingin kamu ketahui tentang Elaine tersedia disini
+#『🗡』twitter-elaine               - Semua yang berhubungan dengan twitter Elaine akan diinformasikan disini
+#『🗡』eyelainer-talks              - Tempat untuk membahas apapun yang berkaitan dengan Elaine
+#『🗡』clip-meme-fanart             - Tempat untuk menampung fanart,meme, dan clip yang berkaitan dengan Elaine
+#『🗡』elainet-citizenship          - Tempat untuk membahas apapun mengenai membership Elaine, ingat temen-temen diharap apapun yang disini tidak bocor kepublik ya~
+#Eyelainer Voice Chat               - Voice chat untuk para Eyelainer
+#Elainet Membership Voice Chat      - Voice chat untuk para Elainet
 
 ✿ Pencil ✿
-#『📖』about-cecilia-📖 - Semua hal yang ingin kamu ketahui tentang Cecil tersedia disini
-#『📖』twitter-cecilia - Semua yang berhubungan dengan twitter Cecil akan diinformasikan disini
-#『📖』pencil-talks - Tempat untuk membahas apapun yang berkaitan dengan Cecil
-#『📖』clip-meme-fanart - Tempat untuk menampung fanart,meme, dan clip yang berkaitan dengan Cecil
-#『📖』lieberian-membership-talks - Tempat untuk membahas apapun mengenai membership Cecilingat temen-temen diharap apapun yang disini tidak bocor kepublik ya~
-#Pencil Voice Chat - Voice chat untuk para Pencil
-#Lieberian Membership Voice Chat - Voice chat untuk para Lieberian
+#『📖』about-cecilia-📖                 - Semua hal yang ingin kamu ketahui tentang Cecil tersedia disini
+#『📖』twitter-cecilia                  - Semua yang berhubungan dengan twitter Cecil akan diinformasikan disini
+#『📖』pencil-talks                     - Tempat untuk membahas apapun yang berkaitan dengan Cecil
+#『📖』clip-meme-fanart                 - Tempat untuk menampung fanart,meme, dan clip yang berkaitan dengan Cecil
+#『📖』lieberian-membership-talks       - Tempat untuk membahas apapun mengenai membership Cecilingat temen-temen diharap apapun yang disini tidak bocor kepublik ya~
+#Pencil Voice Chat                      - Voice chat untuk para Pencil
+#Lieberian Membership Voice Chat        - Voice chat untuk para Lieberian
 
 Re:Memories Community
 『💫🎹🍀🗡📖』community-live-discussion - Tempat untuk chat ketika ada event yang berlangsung
 
 ✿ Drawing Room ✿
-#『🎨』fanart-sharing - Disini bisa posting gambar orang lain, mau gambar apapun atau siapapun boleh~ asal jangan lupa kasih link credit artistnya yaaa~ (*´ω`*)
-#『🎨』draw-anything - Have OCs or another art?
-Just put in here and let me know your artist side~~ >///<
-#『🎨』drawing-tips-wips-and-faq - Yuk berbagi ilmu, tebar WIP serta tanya jawab seputar dunia menggambar disini.
-#Live Drawing - Voice chat untuk para artis yang ingin menggambar secara live
+#『🎨』fanart-sharing               - Disini bisa posting gambar orang lain, mau gambar apapun atau siapapun boleh~ asal jangan lupa kasih link credit artistnya yaaa~ (*´ω`*)
+#『🎨』draw-anything                - Have OCs or another art?
+                                      Just put in here and let me know your artist side~~ >///<
+#『🎨』drawing-tips-wips-and-faq    - Yuk berbagi ilmu, tebar WIP serta tanya jawab seputar dunia menggambar disini.
+#Live Drawing                       - Voice chat untuk para artis yang ingin menggambar secara live
 
 ✿ Community Lobby ✿
-#『💸』dank-memes - Tempat untuk share meme yang secara umum
-#『🏠』other-vtuber-talk - Tempat untuk membahas temen-temen vtuber yang ada diluar sana
-#『🎮』game-channel - Tempat untuk membahas apapun yang berkaitan dengan game
-#『🎮』gameid-usershare-🕹 - Tempat untuk membagikan apapun yang berkaitan dengan Profile game kalian
-#『🌐』socmed-usershare - Tempat untuk kalian yang ini membagikan social media kalian
-#『🍕』kitchen-and-food - Tempat untuk membahas makanan
-#『👶』nostalgia-masa-kecil - Tempat untuk bernostalgia, membahas hal-hal indah pada waktu kecil
-#『📱』tech-stuff - Tempat untuk membahas hal-hal yang berkaitan dengan teknologi
-#『🤡』entertaiment-stuff - Tempat untuk membahas apapun yang berkaitan dengan hiburan
-#『🎶』music-talk - Tempat untuk membahas dan sharing apapun yang berkaitan dengan musik
+#『💸』dank-memes               - Tempat untuk share meme yang secara umum
+#『🏠』other-vtuber-talk        - Tempat untuk membahas temen-temen vtuber yang ada diluar sana
+#『🎮』game-channel             - Tempat untuk membahas apapun yang berkaitan dengan game
+#『🎮』gameid-usershare-🕹      - Tempat untuk membagikan apapun yang berkaitan dengan Profile game kalian
+#『🌐』socmed-usershare         - Tempat untuk kalian yang ini membagikan social media kalian
+#『🍕』kitchen-and-food         - Tempat untuk membahas makanan
+#『👶』nostalgia-masa-kecil     - Tempat untuk bernostalgia, membahas hal-hal indah pada waktu kecil
+#『📱』tech-stuff               - Tempat untuk membahas hal-hal yang berkaitan dengan teknologi
+#『🤡』entertaiment-stuff       - Tempat untuk membahas apapun yang berkaitan dengan hiburan
+#『🎶』music-talk               - Tempat untuk membahas dan sharing apapun yang berkaitan dengan musik
 
 ✿ Gaming Center ✿
-#『🎮』about-gaming-center 
-#『🎮』gaming-chat - Tempat untuk mabar ataupun nobar
-#『⛏』minecraft-chat-rememories - Tempat untuk membahas tentang hal-hal yang ada diserver minecraft Re:memories
-#『💥』event-teras-chat- Chat untuk kegiatan/Event spesial di Makrab~
-#『🤖』-change-vc-name-and-no-mic-chat - Tempat untuk merubah voice chat name
-#『💥』Event Voice - ?????? 
-#Event Voice- ?????
-#(+) Join To Create VC - Tempat untuk membuat voice chat
+#『🎮』about-gaming-center              - 
+#『🎮』gaming-chat                      - Tempat untuk mabar ataupun nobar
+#『⛏』minecraft-chat-rememories        - Tempat untuk membahas tentang hal-hal yang ada diserver minecraft Re:memories
+#『💥』event-teras-chat                 - Chat untuk kegiatan/Event spesial di Makrab~
+#『🤖』-change-vc-name-and-no-mic-chat  - Tempat untuk merubah voice chat name
+#『💥』Event Voice                      - ?????? 
+#Event Voice                            - ?????
+#(+) Join To Create VC                  - Tempat untuk membuat voice chat
 
 ✿ Bot-Play ✿
-#re-bot - Tempat untuk spam bot
+#re-bot     - Tempat untuk spam bot
 #mainan-bot - Tempat untuk spam bot
 
