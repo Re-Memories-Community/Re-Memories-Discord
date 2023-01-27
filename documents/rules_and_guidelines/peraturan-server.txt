@@ -112,12 +112,13 @@ Kami menghargai hak setiap individu untuk berpendapat dan berekspresi, namun pad
 PEMBERIAN SANKSI
 =======================================**
 
-Pada dasarnya apabila rekan-rekan melanggar hal-hal yang telah disebutkan di atas, Moderator Discord untuk berhak memberikan teguran agar yang bersangkutan mengetahui apa yang harus diperbaiki / diubah.
-Namun bilamana member tersebut tidak mengindahkan "salam hangat" dari Moderator Discord dan masih melakukan pelanggaran, maka kami akan lakukan tindakan sebagai berikut:
+Pada dasarnya apabila rekan-rekan melanggar hal-hal yang telah disebutkan di atas, Moderator Discord berhak untuk memberikan teguran agar yang bersangkutan mengetahui apa yang harus diperbaiki / diubah.
+Namun bilamana member tersebut tidak mengindahkannya, maka kami akan lakukan tindakan sebagai berikut:
 
-- 1 kali: mute selama 1 jam
-- 2 kali: mute selama 1 hari
-- 3 kali: mohon maaf, Anda akan mendapatkan "surat cinta" dari Moderator Discord.
+- 1 kali: "teguran hangat" dari Moderator Discord.
+- 2 kali: mute selama 1 hari.
+- 3 kali: mute selama 1 minggu.
+- Untuk selebihnya mohon maaf, Anda akan mendapatkan "surat cinta" dari Moderator Discord.
 
 Dengan ini, kami menegaskan bahwa setiap member yang bergabung di server Discord ini sudah membaca, mengerti, dan akan selalu menaati peraturan yang berlaku di server ini. Kami juga mengingatkan bahwa setiap pelanggaran akan dikenakan sanksi sesuai dengan ketentuan yang telah ditetapkan. Kami berharap, lingkungan server Discord ini dapat tetap nyaman dan kondusif untuk seluruh member server. 
 
