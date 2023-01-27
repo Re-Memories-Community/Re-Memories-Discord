@@ -1,7 +1,7 @@
 Halo semuanya.
 
 Selamat datang di server Discord Re:Memories.
-Server DIscord ini di bentuk sebagai wadah agar komunitas Re:Memories dapat saling berinteraksi antar member dan talent.
+Server Discord ini di bentuk sebagai wadah agar komunitas Re:Memories dapat saling berinteraksi antar member dan talent.
 Sebelumnya. seperti ada peribahasa yang berbunyi **\'Di Mana Bumi Dipijak, di Situ Langit Dijunjung\'**.
 Maka berikut akan kami jelaskan mengenai aturan-aturan yang berlaku dan wajib diataati oleh seluruh member server ini:
 
@@ -9,11 +9,19 @@ Maka berikut akan kami jelaskan mengenai aturan-aturan yang berlaku dan wajib di
 ATURAN UMUM
 =======================================**
 
-1. Menjaga sikap dan perkataan yang baik di server, serta tidak melakukan tindakan pembullyan, bashing, shaming, atau hal yang menyinggung SARA (Suku, Agama, Ras, Antargolongan).
-2. Saling mendukung satu sama lain, tidak boleh saling membandingkan keadaan atau menjatuhkan sesama member server.
-3. Hanya membagikan konten yang sesuai untuk segala usia dan kalangan, serta hindari percakapan yang tidak sopan.
-4. Tidak diperbolehkan melakukan self-promote baik milik pribadi maupun tim dalam bentuk apapun. Pengecualian untuk survey tugas atau skripsi, hanya boleh dilakukan di channel #ngobrol-bebas dan tidak menimbulkan spamming.
-5. Dilarang keras untuk mengorek atau menyebarkan hal pribadi sesama member kecuali yang bersangkutan sudah memperbolehkan. Mari hargai privasi sesama member server.
+1.  Server ini mengutamakan lingkungan yang family friendly.
+2.  Saling menjaga sikap dan perkataan yang baik.
+3.  Dilarang melakukan tindakan pembullyan, bashing, shaming, atau hal yang menyinggung SARA (Suku, Agama, Ras, Antargolongan).
+4.  Saling mendukung satu sama lain, tidak diperkenankan untuk saling membandingkan keadaan atau menjatuhkan sesama member server.
+5.  Hanya diperbolehkan berbagi konten yang sesuai untuk segala usia dan kalangan.
+6.  Dilarang keras untuk mengorek atau menyebarkan hal pribadi sesama member kecuali yang bersangkutan sudah memperbolehkan. Hargai privasi sesama member server.
+7.  Hindari untuk membahas drama di server ini.
+8.  Dilarang membagikan berita hoax.
+9.  Tidak meresahkan member lain, keluhan berkelanjutan dari beberapa member akan ditindak secara administratif.
+10. Dilarang melakukan self-promote baik milik pribadi maupun tim dalam bentuk apapun, kecuali untuk survey tugas atau skripsi yang hanya boleh dilakukan di channel #ngobrol-bebas dan tidak diperkenankan spamming.
+11. Dilarang menggunakan username dan atau nickname yang tidak family friendly.
+12. Dilarang melakukan penggunaan akun ganda (2nd account).
+13. Dilarang melakukan tag/mention role admin, moderator, staff dan talent secara sembarangan, hanya diperbolehkan dalam kondisi darurat atau terjadi pelanggaran peraturan berat.
 
 **=======================================
 PSA: KONTEN YANG BISA DIBAGIKAN
@@ -36,7 +44,7 @@ Dikarenakan server ini adalah "family friendly", maka kami meminta kesediaan rek
 PENGGUNAAN MENTION MODERATOR DISCORD
 =======================================**
 
-Untuk menghindari role ping abuse, tag @.Moderator Discord hanya boleh digunakan **JIKA DAN HANYA JIKA ketika ada kejadian luar biasa/urgensi tinggi, atau rule violation.** Selebihnya, jika ingin tag mod, tag salah satu dari Admin atau Moderator yang sedang online.
+Untuk menghindari role ping abuse, tag @Moderator Discord hanya boleh digunakan **JIKA DAN HANYA JIKA ketika ada kejadian luar biasa/urgensi tinggi, atau rule violation.** Selebihnya, jika ingin tag mod, tag salah satu dari Admin atau Moderator yang sedang online.
 
 Menggunakan role tag @Admin dan atau @Moderator Discord di luar hal tersebut, Anda akan dikenai sanksi yang berlaku di server ini.
 
@@ -58,7 +66,7 @@ Mengingat kembali bahwa server ini adalah family friendly, maka akan diberlakuka
 Username dan nickname diwajibkan untuk tidak boleh mengandung unsur:
 
 - SARA
-- Yang mengandung unsur politik
+- Politik
 - Genital/alat kelamin (secara langsung maupun tak langsung)
 - Swear words/kata-kata kasar
 - Trolling (yang bisa memancing orang untuk marah/tersinggung)
@@ -69,7 +77,7 @@ Apabila didapati hal di atas, maka kami akan meminta kamu untuk mengganti userna
 ATURAN MENGENAI AKUN GANDA (2ND ACCOUNT)
 =======================================**
 
-Untuk alasan apapun, penggunaan akun ganda (2nd account) di server ini **SANGAT TIDAK DIPERBOLEHKAN**. Namun, apabila Anda **sangat terpaksa** harus menggunakan akun ganda di server ini, maka setelah masuk ke server Anda **wajib melaporkannya** kepada salah satu Admin dan atau Moderator DIscord dengan menyertakan alasan yang bisa diterima melalui DM.
+Penggunaan akun ganda (2nd account) di server ini **SANGAT TIDAK DIPERBOLEHKAN**. Namun, apabila Anda **sangat terpaksa** harus menggunakan akun ganda di server ini, maka setelah masuk ke server Anda **wajib melaporkannya** kepada salah satu Admin dan atau Moderator Discord dengan menyertakan alasan yang bisa diterima melalui DM.
 
 Alasan yang bisa diterima perihal penggunaan akun ganda (akan diperbarui sesuai kebutuhan):
 - Anda tidak bisa mengakses akun utama karena lupa kata sandi (password) dan surel (e-mail) sehingga tidak bisa memperoleh kembali akun tersebut.
@@ -104,12 +112,13 @@ Kami menghargai hak setiap individu untuk berpendapat dan berekspresi, namun pad
 PEMBERIAN SANKSI
 =======================================**
 
-Apabila rekan-rekan melanggar hal-hal yang telah disebut di atas, maka kami akan lakukan tindakan sebagai berikut:
+Apabila rekan-rekan melanggar hal-hal yang telah disebutkan di atas, maka kami akan lakukan tindakan sebagai berikut:
 
 - 1 kali: mute selama 1 jam
 - 2 kali: mute selama 1 hari
-- 3 kali: mohon maaf, Anda akan mendapatkan teguran dari Moderator Discord.
+- 3 kali: mohon maaf, Anda akan mendapatkan "surat cinta" dari Moderator Discord.
 
-Dengan ini, kami menegaskan bahwa setiap member yang bergabung di server Discord  ini sudah membaca, mengerti, dan akan selalu menaati peraturan yang berlaku di server ini. Kami juga mengingatkan bahwa setiap pelanggaran akan dikenakan sanksi sesuai dengan ketentuan yang telah ditetapkan. Kami berharap dengan adanya peraturan tersebut, lingkungan server Discord ini dapat tetap nyaman dan kondusif untuk seluruh member server. Terima kasih atas kerjasamanya
+Dengan ini, kami menegaskan bahwa setiap member yang bergabung di server Discord ini sudah membaca, mengerti, dan akan selalu menaati peraturan yang berlaku di server ini. Kami juga mengingatkan bahwa setiap pelanggaran akan dikenakan sanksi sesuai dengan ketentuan yang telah ditetapkan. Kami berharap, lingkungan server Discord ini dapat tetap nyaman dan kondusif untuk seluruh member server. 
 
+Terima kasih atas kerjasamanya
 Salam hormat.  🙏
