@@ -17,11 +17,12 @@ ATURAN UMUM
 6.  Dilarang keras untuk mengorek atau menyebarkan hal pribadi sesama member kecuali yang bersangkutan sudah memperbolehkan. Hargai privasi sesama member server.
 7.  Hindari untuk membahas drama di server ini.
 8.  Dilarang membagikan berita hoax.
-9.  Tidak meresahkan member lain, keluhan berkelanjutan dari beberapa member akan ditindak secara administratif.
-10. Dilarang melakukan self-promote baik milik pribadi maupun tim dalam bentuk apapun, kecuali untuk survey tugas atau skripsi yang hanya boleh dilakukan di channel #ngobrol-bebas dan tidak diperkenankan spamming.
-11. Dilarang menggunakan profile picture, username, dan atau nickname yang tidak "family friendly".
-12. Dilarang melakukan penggunaan akun ganda (2nd account).
-13. Dilarang melakukan tag/mention role admin, moderator, staff dan talent secara sembarangan, hanya diperbolehkan dalam kondisi darurat atau terjadi pelanggaran peraturan berat.
+9.  Diharapkan untuk selalu membaca terlebih dahulu nama channel beserta deskripsinya sebelum membagikan konten. 
+10. Tidak meresahkan member lain, keluhan berkelanjutan dari beberapa member akan ditindak secara administratif.
+11. Dilarang melakukan self-promote baik milik pribadi maupun tim dalam bentuk apapun, kecuali untuk survey tugas atau skripsi yang hanya boleh dilakukan di channel #ngobrol-bebas dan tidak diperkenankan spamming.
+12. Dilarang menggunakan profile picture, username, dan atau nickname yang tidak "family friendly".
+13. Dilarang melakukan penggunaan akun ganda (2nd account).
+14. Dilarang melakukan tag/mention role admin, moderator, staff dan talent secara sembarangan, hanya diperbolehkan dalam kondisi darurat atau terjadi pelanggaran peraturan berat.
 
 **=======================================
 ATURAN LANJUTAN
