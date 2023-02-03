@@ -1,0 +1,37 @@
+**===========================
+GUIDELINES MOD LOKAL
+===========================**
+
+Berikut adalah guidelines untuk Mod Lokal: 
+1. Menjaga netralitas dan tidak memperlakukan member server secara diskriminatif.
+2. Menjaga konten yang sesuai dengan peraturan server dan melaporkan konten yang melanggar peraturan kepada Moderator Discord.
+3. Merespons pertanyaan dan keluhan member server dengan cepat dan profesional.
+4. Menjaga kerahasiaan informasi member server dan tidak menyebarkan informasi yang diperoleh secara tidak sah.
+5. Mengikuti arahan Admin / Moderator Discord dan mengambil tindakan yang diperlukan untuk menjaga ketertiban server.
+6. Memberikan teguran yang diperlukan untuk menghentikan tindakan yang melanggar peraturan.
+7. Membuat catatan yang sesuai tentang tindakan yang diambil, termasuk alasan yang mendasar dari tindakan tersebut.
+8. Mengikuti perkembangan peraturan server dan mengusulkan perubahan yang diperlukan untuk menjaga kesesuaian dengan peraturan terbaru.
+9. Berkomunikasi dengan Moderator Discord dan rekan Mod Lokal lainnya secara efektif dan menyampaikan masalah atau permasalahan yang dihadapi.
+10. Diharapkan untuk aktif dalam server dan mengawasi konten secara rutin. Jika hal tersebut tidak memungkinkan, maka dapat memberi kabar kepada Moderator Discord.
+11. Menghindari penggunaan kuasa yang tidak perlu dan tidak melakukan power abuse.
+12. Transparan dalam tindakan yang diambil dan dapat dipertanggung jawabkan atas tindakan yang diambil.
+13. Melakukan prosedur penindakan pelanggaran yang ditentukan dan melakukan review tindakan yang diambil.
+14. Mod Lokal diperkenankan untuk melakukan tag / mention membership apabila diperlukan, seperti menginfokan stream membership terbaru, event khusus membership, maupun hal sejenisnya.
+15. Bersedia jika mendapatkan tag / mention dari member server jika ada hal yang memerlukan peranan moderator, seperti pin post, pembuatan thread, dan hal sejesinsnya
+
+**==========================**
+
+**============================== 
+PROSEDUR MOD LOKAL
+==============================**
+
+Berikut adalah prosedur yang dapat diikuti dalam melakukan moderasi di channel talent:
+1. __Identifikasi pelanggaran__: Mod Lokal harus mengidentifikasi pelanggaran yang dilakukan oleh member server dan membuat catatan tentang tindakan yang dilakukan oleh member tersebut. Contoh: Member Server menyebarkan konten pornografi di dalam server.
+2. __Pemberian peringatan__: Mod Lokal harus memberikan peringatan kepada member server yang melakukan pelanggaran. Peringatan harus jelas menyatakan pelanggaran yang dilakukan dan apa yang harus dilakukan oleh member server untuk memperbaiki diri. Contoh: Member server diberikan peringatan untuk menghapus konten yang dibagikan dan bersedia mengikuti peraturan server tentang berbagi konten yang diizinkan.
+3. __Tindakan selanjutnya__: Jika member server tidak memperbaiki diri setelah diberikan peringatan, Mod Lokal dapat mendiskusikan hal tersebut kepada Moderator Discord yang memiliki akses ke membership talent tersebut untuk dapat ditindak lanjuti. Jika masalah yang terjadi tidak dapat diselesaikan oleh mereka, maka dapat meminta bantuan kepada Moderator Discord lainnya.
+4. __Catatan__: Mod Lokal harus membuat catatan yang sesuai tentang tindakan yang diambil, termasuk alasan yang mendasar dari tindakan tersebut. Catatan ini harus disimpan untuk referensi jika diperlukan di masa depan.
+5. __Komunikasi__: Mod Lokal harus berkomunikasi dengan Moderator Discord dan rekan Mod Lokal lainnya untuk memastikan tindakan yang diambil sesuai dengan peraturan server dan untuk menyampaikan masalah atau permasalahan yang dihadapi.
+6. __Review__ : Mod Lokal harus memeriksa kembali tindakan yang telah diambil secara berkala, untuk memastikan bahwa telah sesuai dengan peraturan server dan efektif dalam mengatasi pelanggaran.
+7. __Transparansi__ : Mod Lokal harus selalu transparan dalam tindakan yang diambil dan dapat dipertanggung jawabkan atas tindakan yang diambil.
+
+**==========================**
