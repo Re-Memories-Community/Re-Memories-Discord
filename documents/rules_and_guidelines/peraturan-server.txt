@@ -11,18 +11,19 @@ ATURAN UMUM
 
 1.  Server ini mengutamakan lingkungan yang "family friendly".
 2.  Saling menjaga sikap dan perkataan yang baik, serta hindari menggunakan bahasa yang tidak sopan dan kurang pantas.
-3.  Dilarang melakukan tindakan pembullyan, bashing, shaming, atau hal yang menyinggung SARA (Suku, Agama, Ras, Antargolongan).
-4.  Saling mendukung satu sama lain, tidak diperkenankan untuk saling membandingkan keadaan atau menjatuhkan sesama member server.
-5.  Hanya diperbolehkan berbagi konten yang sesuai untuk segala usia dan kalangan.
-6.  Dilarang keras untuk mengorek atau menyebarkan hal pribadi sesama member kecuali yang bersangkutan sudah memperbolehkan. Hargai privasi sesama member server.
-7.  Hindari untuk membahas drama di server ini.
-8.  Dilarang membagikan berita hoax.
-9.  Diharapkan untuk selalu membaca terlebih dahulu nama channel beserta deskripsinya sebelum membagikan konten. 
-10. Tidak meresahkan member lain, keluhan berkelanjutan dari beberapa member akan ditindak secara administratif.
-11. Dilarang melakukan self-promote baik milik pribadi maupun tim dalam bentuk apapun, kecuali untuk survey tugas atau skripsi yang hanya boleh dilakukan di channel #ngobrol-bebas dan tidak diperkenankan spamming.
-12. Dilarang menggunakan profile picture, username, dan atau nickname yang tidak "family friendly".
-13. Dilarang melakukan penggunaan akun ganda (2nd account).
-14. Dilarang melakukan tag/mention role admin, moderator, staff dan talent secara sembarangan, hanya diperbolehkan dalam kondisi darurat atau terjadi pelanggaran peraturan berat.
+3.  Gunakan "common sense" dalam berinteraksi dengan member lain untuk menjaga keharmonisan server ini.
+4.  Dilarang melakukan tindakan pembullyan, bashing, shaming, atau hal yang menyinggung SARA (Suku, Agama, Ras, Antargolongan).
+5.  Saling mendukung satu sama lain, tidak diperkenankan untuk saling membandingkan keadaan atau menjatuhkan sesama member server.
+6.  Hanya diperbolehkan berbagi konten yang sesuai untuk segala usia dan kalangan.
+7.  Dilarang keras untuk mengorek atau menyebarkan hal pribadi sesama member kecuali yang bersangkutan sudah memperbolehkan. Hargai privasi sesama member server.
+8.  Hindari untuk membahas drama di server ini.
+9.  Dilarang membagikan berita hoax.
+10. Diharapkan untuk selalu membaca terlebih dahulu nama channel beserta deskripsinya sebelum membagikan konten. 
+11. Tidak meresahkan member lain, keluhan berkelanjutan dari beberapa member akan ditindak secara administratif.
+12. Dilarang melakukan self-promote baik milik pribadi maupun tim dalam bentuk apapun, kecuali untuk survey tugas atau skripsi yang hanya boleh dilakukan di channel #ngobrol-bebas dan tidak diperkenankan spamming.
+13. Dilarang menggunakan profile picture, username, dan atau nickname yang tidak "family friendly".
+14. Dilarang melakukan penggunaan akun ganda (2nd account).
+15. Dilarang melakukan tag/mention role admin, moderator, staff dan talent secara sembarangan, hanya diperbolehkan dalam kondisi darurat atau terjadi pelanggaran peraturan berat.
 
 **=======================================
 ATURAN LANJUTAN
